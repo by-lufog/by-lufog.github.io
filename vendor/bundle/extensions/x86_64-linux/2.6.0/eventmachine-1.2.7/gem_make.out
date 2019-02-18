@@ -1,0 +1,16 @@
+current directory: /mnt/e/Development/Web/org.lufox/by-lufog/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.6 -I /usr/lib/ruby/2.6.0 -r ./siteconf20190218-21606-rqyqq1.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/e/Development/Web/org.lufox/by-lufog/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /mnt/e/Development/Web/org.lufox/by-lufog/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /mnt/e/Development/Web/org.lufox/by-lufog/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190218-21606-jt5v65
