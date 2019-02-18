@@ -1,0 +1,17 @@
+/* START content column fix */
+.col-content {
+  max-width: 860px;
+}
+
+@media (max-width: 1200px) {
+  .col-content {
+    max-width: 680px;
+  }
+}
+
+@media (max-width: 992px) {
+  .col-content {
+    max-width: 100%;
+  }
+}
+/* END content column fix */
