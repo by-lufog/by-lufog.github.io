@@ -26,6 +26,7 @@ plugins:
   - jekyll-multiple-languages-plugin
 
 encoding: utf-8
+exclude: ['readme.md']
 
 # Jekyll Multiple Languages Plugin
 languages: ['ru', 'en', 'uk']
