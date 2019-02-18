@@ -1,3 +1,3 @@
 # Lufog personal page repository
-Do not waste your time. There is nothing interesting in this repository. All its contents are the output of the Jekyll generator.
+Do not waste your time. There is nothing interesting in this repository. All its contents are the output of the Hugo generator.
 Site itself: [lufog personal page](https://by-lufog.github.io)

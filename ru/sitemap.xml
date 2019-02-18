@@ -3,92 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/ru/</loc>
     <lastmod>2019-02-17T21:33:11+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
                 href="/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/"
+                />
   </url>
   
   <url>
-    <loc>/news/</loc>
+    <loc>/ru/news/</loc>
     <lastmod>2019-02-17T21:33:29+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
                 href="/news/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/news/"
+                />
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>/ru/projects/</loc>
     <lastmod>2019-02-17T21:33:29+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/projects/"
+                href="/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/projects/"
+                href="/ru/projects/"
                 />
   </url>
   
   <url>
-    <loc>/articles/</loc>
+    <loc>/ru/articles/</loc>
     <lastmod>2019-02-17T21:33:21+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
                 href="/articles/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/articles/"
+                />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/ru/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
                 href="/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/categories/"
+                />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/ru/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/tags/"
+                href="/ru/tags/"
                 />
   </url>
   
