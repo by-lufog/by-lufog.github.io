@@ -1,5 +1,5 @@
 current directory: /mnt/e/Development/Web/org.lufox/jekyll/by-lufog/vendor/bundle/gems/ffi-1.10.0/ext/ffi_c
-/usr/bin/ruby2.6 -I /usr/lib/ruby/2.6.0 -r ./siteconf20190218-87-1ud0fzo.rb extconf.rb
+/usr/bin/ruby2.6 -I /usr/lib/ruby/2.6.0 -r ./siteconf20190219-105-12taacr.rb extconf.rb
 /usr/lib/ruby/2.6.0/mkmf.rb:1565: warning: Insecure world writable dir /mnt/c in PATH, mode 040777
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
@@ -158,4 +158,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.so
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20190218-87-1rxnupj
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20190219-105-k61ejb
