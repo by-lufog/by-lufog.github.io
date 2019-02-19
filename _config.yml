@@ -23,11 +23,7 @@ markdown: kramdown
 theme: 
 plugins:
   - jekyll-multiple-languages-plugin
-#  - jekyll-feed
 
-encoding: utf-8
-include:
-  - '.htaccess'
 exclude:
   - 'vendor'
   - 'node_modules'
