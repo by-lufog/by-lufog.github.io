@@ -1,5 +1,5 @@
 current directory: /mnt/e/Development/Web/org.lufox/jekyll/by-lufog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/usr/bin/ruby2.6 -I /usr/lib/ruby/2.6.0 -r ./siteconf20190219-105-1f89pct.rb extconf.rb
+/usr/bin/ruby2.6 -I /usr/lib/ruby/2.6.0 -r ./siteconf20190219-6999-mispv0.rb extconf.rb
 creating Makefile
 
 current directory: /mnt/e/Development/Web/org.lufox/jekyll/by-lufog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -13,4 +13,4 @@ linking shared-object ruby_http_parser.so
 
 current directory: /mnt/e/Development/Web/org.lufox/jekyll/by-lufog/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20190219-105-kp93dd
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20190219-6999-8aakgf
