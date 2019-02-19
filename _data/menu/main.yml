@@ -1,0 +1,12 @@
+items:
+  - title: menu.main.home
+    url: /
+
+  - title: menu.main.news
+    url: /news
+
+  - title: menu.main.projects
+    url: /projects
+
+  - title: menu.main.articles
+    url: /articles

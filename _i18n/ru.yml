@@ -1,0 +1,9 @@
+menu:
+  main:
+    home: Главная
+    news: Новости
+    projects: Проекты
+    articles: Статьи
+
+widget:
+  switchlang: Язык сайта

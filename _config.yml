@@ -22,15 +22,21 @@ github_username:  jekyll
 markdown: kramdown
 theme: 
 plugins:
-  - jekyll-feed
   - jekyll-multiple-languages-plugin
+#  - jekyll-feed
 
 encoding: utf-8
-exclude: ['readme.md']
-
+include:
+  - '.htaccess'
+exclude:
+  - 'vendor'
+  - 'node_modules'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'README.md'
 # Jekyll Multiple Languages Plugin
 languages: ['ru', 'en', 'uk']
-exclude_from_localizations: []
+exclude_from_localizations: ['assets']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
