@@ -1,6 +1,8 @@
-.idea
+# phpstorm
+.idea/*
 
 _site
 .sass-cache
 .jekyll-metadata
-vendor
+vendor/*
+!*/vendor/*
