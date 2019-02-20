@@ -1,9 +1,0 @@
-menu:
-  main:
-    home: Home
-    news: News
-    projects: Projects
-    articles: Articles
-
-widget:
-  switchlang: Site language

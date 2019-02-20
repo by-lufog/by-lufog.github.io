@@ -1,0 +1,45 @@
+# Base
+title: LUFOG
+description: ''
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+
+# Directories
+source         : '.'
+destination    : './_site'
+collections_dir: './_content'
+layouts_dir    : './_layouts'
+includes_dir   : './_includes'
+
+# Site collections
+collections:
+  pages:
+    output: true
+
+  news:
+    output: true
+
+  projects:
+    output: true
+
+  articles:
+    output: true
+
+# Build settings
+markdown: kramdown
+
+# theme: minima
+# plugins:
+#  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# Plugins settings
+## github-metadata
+repository: by-lufog/by-lufog.github.io
