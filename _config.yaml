@@ -43,3 +43,13 @@ exclude:
 # Plugins settings
 ## github-metadata
 repository: by-lufog/by-lufog.github.io
+
+
+# User stuff
+username:
+  github: 'by-lufog'
+  gitlab: 'lufog'
+  bitbucket: 'debugger94'
+  twitter: 'debugger94'
+  facebook: 'debugger94'
+  vkontakte: 'aleksey_smir'
